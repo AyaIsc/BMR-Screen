@@ -55,5 +55,7 @@ Pour une femme avec un **BMR** de 1400.5 et une activité "Peu actif" :
 
 Ce projet vous est proposé par **Aya**.
 
+![Project preview](./imgBS.png)
+
 ---
 
